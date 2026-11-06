@@ -93,28 +93,41 @@ class ApiClient {
     });
 
     if (!response.ok) {
+      if (response.status === 404 && !RAW_BASE) {
+        throw new Error('Backend service is not connected. Please deploy your backend (e.g. on Render) and set VITE_API_BASE_URL in your Vercel project settings.');
+      }
       let errorMessage = `HTTP error ${response.status}`;
       try {
-        const errorData = await response.json();
-        if (typeof errorData.detail === 'string') {
-          errorMessage = errorData.detail;
-        } else if (Array.isArray(errorData.detail)) {
-          errorMessage = errorData.detail
-            .map((errItem: any) => {
-              if (typeof errItem === 'string') return errItem;
-              if (errItem.msg) return `${errItem.loc ? errItem.loc.slice(-1) + ': ' : ''}${errItem.msg}`;
-              return JSON.stringify(errItem);
-            })
-            .join('; ');
-        } else if (errorData.message && typeof errorData.message === 'string') {
-          errorMessage = errorData.message;
-        } else if (errorData.detail) {
-          errorMessage = JSON.stringify(errorData.detail);
+        const contentType = response.headers.get('content-type') || '';
+        if (contentType.includes('application/json')) {
+          const errorData = await response.json();
+          if (typeof errorData.detail === 'string') {
+            errorMessage = errorData.detail;
+          } else if (Array.isArray(errorData.detail)) {
+            errorMessage = errorData.detail
+              .map((errItem: any) => {
+                if (typeof errItem === 'string') return errItem;
+                if (errItem.msg) return `${errItem.loc ? errItem.loc.slice(-1) + ': ' : ''}${errItem.msg}`;
+                return JSON.stringify(errItem);
+              })
+              .join('; ');
+          } else if (errorData.message && typeof errorData.message === 'string') {
+            errorMessage = errorData.message;
+          } else if (errorData.detail) {
+            errorMessage = JSON.stringify(errorData.detail);
+          }
+        } else {
+          errorMessage = `Backend server unreachable (${response.status}). Please check VITE_API_BASE_URL.`;
         }
       } catch {
         errorMessage = response.statusText || errorMessage;
       }
       throw new Error(errorMessage);
+    }
+
+    const contentType = response.headers.get('content-type') || '';
+    if (!contentType.includes('application/json')) {
+      throw new Error('Backend returned non-JSON response. Please ensure VITE_API_BASE_URL points to the live FastAPI backend service.');
     }
 
     return response.json();
