@@ -1,0 +1,56 @@
+{
+  "model_name": "RandomForestGrowthStageClassifier",
+  "model_version": "1.0.0",
+  "training_samples": 110,
+  "test_samples": 40,
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "confusion_matrix": [
+    [
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8
+    ]
+  ],
+  "classes": [
+    "Seedling",
+    "Vegetative",
+    "Flowering",
+    "Fruit Formation",
+    "Maturity"
+  ],
+  "feature_count": 20,
+  "split_strategy": "Longitudinal Plant-Source Holdout (Zero plant leakage)"
+}

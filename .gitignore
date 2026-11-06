@@ -1,0 +1,39 @@
+# Environments and Secrets
+.env
+*.env.local
+*.env.*.local
+
+# Databases & Backups
+*.db
+*.sqlite3
+plantpulse_backup_*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+
+# Node & Frontend
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Uploads & Temp Data
+/backend/data/uploads/*
+!/backend/data/uploads/.gitkeep
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

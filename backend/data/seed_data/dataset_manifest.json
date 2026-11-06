@@ -1,0 +1,1052 @@
+[
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_001.jpg",
+    "plant_source_id": "plant_source_001",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_002.jpg",
+    "plant_source_id": "plant_source_002",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_003.jpg",
+    "plant_source_id": "plant_source_003",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_004.jpg",
+    "plant_source_id": "plant_source_004",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_005.jpg",
+    "plant_source_id": "plant_source_005",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_006.jpg",
+    "plant_source_id": "plant_source_006",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_007.jpg",
+    "plant_source_id": "plant_source_007",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_008.jpg",
+    "plant_source_id": "plant_source_008",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_009.jpg",
+    "plant_source_id": "plant_source_009",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_010.jpg",
+    "plant_source_id": "plant_source_010",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_011.jpg",
+    "plant_source_id": "plant_source_011",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_012.jpg",
+    "plant_source_id": "plant_source_012",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_013.jpg",
+    "plant_source_id": "plant_source_013",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_014.jpg",
+    "plant_source_id": "plant_source_014",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_015.jpg",
+    "plant_source_id": "plant_source_015",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_016.jpg",
+    "plant_source_id": "plant_source_016",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_017.jpg",
+    "plant_source_id": "plant_source_017",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_018.jpg",
+    "plant_source_id": "plant_source_018",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_019.jpg",
+    "plant_source_id": "plant_source_019",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_020.jpg",
+    "plant_source_id": "plant_source_020",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_021.jpg",
+    "plant_source_id": "plant_source_021",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_022.jpg",
+    "plant_source_id": "plant_source_022",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_023.jpg",
+    "plant_source_id": "plant_source_023",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_024.jpg",
+    "plant_source_id": "plant_source_024",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_025.jpg",
+    "plant_source_id": "plant_source_025",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_026.jpg",
+    "plant_source_id": "plant_source_026",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_027.jpg",
+    "plant_source_id": "plant_source_027",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_028.jpg",
+    "plant_source_id": "plant_source_028",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_029.jpg",
+    "plant_source_id": "plant_source_029",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\seedling\\seedling_plant_030.jpg",
+    "plant_source_id": "plant_source_030",
+    "growth_stage": "Seedling",
+    "stage_index": 0,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_001.jpg",
+    "plant_source_id": "plant_source_001",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_002.jpg",
+    "plant_source_id": "plant_source_002",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_003.jpg",
+    "plant_source_id": "plant_source_003",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_004.jpg",
+    "plant_source_id": "plant_source_004",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_005.jpg",
+    "plant_source_id": "plant_source_005",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_006.jpg",
+    "plant_source_id": "plant_source_006",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_007.jpg",
+    "plant_source_id": "plant_source_007",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_008.jpg",
+    "plant_source_id": "plant_source_008",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_009.jpg",
+    "plant_source_id": "plant_source_009",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_010.jpg",
+    "plant_source_id": "plant_source_010",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_011.jpg",
+    "plant_source_id": "plant_source_011",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_012.jpg",
+    "plant_source_id": "plant_source_012",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_013.jpg",
+    "plant_source_id": "plant_source_013",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_014.jpg",
+    "plant_source_id": "plant_source_014",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_015.jpg",
+    "plant_source_id": "plant_source_015",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_016.jpg",
+    "plant_source_id": "plant_source_016",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_017.jpg",
+    "plant_source_id": "plant_source_017",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_018.jpg",
+    "plant_source_id": "plant_source_018",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_019.jpg",
+    "plant_source_id": "plant_source_019",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_020.jpg",
+    "plant_source_id": "plant_source_020",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_021.jpg",
+    "plant_source_id": "plant_source_021",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_022.jpg",
+    "plant_source_id": "plant_source_022",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_023.jpg",
+    "plant_source_id": "plant_source_023",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_024.jpg",
+    "plant_source_id": "plant_source_024",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_025.jpg",
+    "plant_source_id": "plant_source_025",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_026.jpg",
+    "plant_source_id": "plant_source_026",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_027.jpg",
+    "plant_source_id": "plant_source_027",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_028.jpg",
+    "plant_source_id": "plant_source_028",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_029.jpg",
+    "plant_source_id": "plant_source_029",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\vegetative\\vegetative_plant_030.jpg",
+    "plant_source_id": "plant_source_030",
+    "growth_stage": "Vegetative",
+    "stage_index": 1,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_001.jpg",
+    "plant_source_id": "plant_source_001",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_002.jpg",
+    "plant_source_id": "plant_source_002",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_003.jpg",
+    "plant_source_id": "plant_source_003",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_004.jpg",
+    "plant_source_id": "plant_source_004",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_005.jpg",
+    "plant_source_id": "plant_source_005",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_006.jpg",
+    "plant_source_id": "plant_source_006",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_007.jpg",
+    "plant_source_id": "plant_source_007",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_008.jpg",
+    "plant_source_id": "plant_source_008",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_009.jpg",
+    "plant_source_id": "plant_source_009",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_010.jpg",
+    "plant_source_id": "plant_source_010",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_011.jpg",
+    "plant_source_id": "plant_source_011",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_012.jpg",
+    "plant_source_id": "plant_source_012",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_013.jpg",
+    "plant_source_id": "plant_source_013",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_014.jpg",
+    "plant_source_id": "plant_source_014",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_015.jpg",
+    "plant_source_id": "plant_source_015",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_016.jpg",
+    "plant_source_id": "plant_source_016",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_017.jpg",
+    "plant_source_id": "plant_source_017",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_018.jpg",
+    "plant_source_id": "plant_source_018",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_019.jpg",
+    "plant_source_id": "plant_source_019",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_020.jpg",
+    "plant_source_id": "plant_source_020",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_021.jpg",
+    "plant_source_id": "plant_source_021",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_022.jpg",
+    "plant_source_id": "plant_source_022",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_023.jpg",
+    "plant_source_id": "plant_source_023",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_024.jpg",
+    "plant_source_id": "plant_source_024",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_025.jpg",
+    "plant_source_id": "plant_source_025",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_026.jpg",
+    "plant_source_id": "plant_source_026",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_027.jpg",
+    "plant_source_id": "plant_source_027",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_028.jpg",
+    "plant_source_id": "plant_source_028",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_029.jpg",
+    "plant_source_id": "plant_source_029",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\flowering\\flowering_plant_030.jpg",
+    "plant_source_id": "plant_source_030",
+    "growth_stage": "Flowering",
+    "stage_index": 2,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_001.jpg",
+    "plant_source_id": "plant_source_001",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_002.jpg",
+    "plant_source_id": "plant_source_002",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_003.jpg",
+    "plant_source_id": "plant_source_003",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_004.jpg",
+    "plant_source_id": "plant_source_004",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_005.jpg",
+    "plant_source_id": "plant_source_005",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_006.jpg",
+    "plant_source_id": "plant_source_006",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_007.jpg",
+    "plant_source_id": "plant_source_007",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_008.jpg",
+    "plant_source_id": "plant_source_008",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_009.jpg",
+    "plant_source_id": "plant_source_009",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_010.jpg",
+    "plant_source_id": "plant_source_010",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_011.jpg",
+    "plant_source_id": "plant_source_011",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_012.jpg",
+    "plant_source_id": "plant_source_012",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_013.jpg",
+    "plant_source_id": "plant_source_013",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_014.jpg",
+    "plant_source_id": "plant_source_014",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_015.jpg",
+    "plant_source_id": "plant_source_015",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_016.jpg",
+    "plant_source_id": "plant_source_016",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_017.jpg",
+    "plant_source_id": "plant_source_017",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_018.jpg",
+    "plant_source_id": "plant_source_018",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_019.jpg",
+    "plant_source_id": "plant_source_019",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_020.jpg",
+    "plant_source_id": "plant_source_020",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_021.jpg",
+    "plant_source_id": "plant_source_021",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_022.jpg",
+    "plant_source_id": "plant_source_022",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_023.jpg",
+    "plant_source_id": "plant_source_023",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_024.jpg",
+    "plant_source_id": "plant_source_024",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_025.jpg",
+    "plant_source_id": "plant_source_025",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_026.jpg",
+    "plant_source_id": "plant_source_026",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_027.jpg",
+    "plant_source_id": "plant_source_027",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_028.jpg",
+    "plant_source_id": "plant_source_028",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_029.jpg",
+    "plant_source_id": "plant_source_029",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\fruit_formation\\fruit_formation_plant_030.jpg",
+    "plant_source_id": "plant_source_030",
+    "growth_stage": "Fruit Formation",
+    "stage_index": 3,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_001.jpg",
+    "plant_source_id": "plant_source_001",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_002.jpg",
+    "plant_source_id": "plant_source_002",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_003.jpg",
+    "plant_source_id": "plant_source_003",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_004.jpg",
+    "plant_source_id": "plant_source_004",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_005.jpg",
+    "plant_source_id": "plant_source_005",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_006.jpg",
+    "plant_source_id": "plant_source_006",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_007.jpg",
+    "plant_source_id": "plant_source_007",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_008.jpg",
+    "plant_source_id": "plant_source_008",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_009.jpg",
+    "plant_source_id": "plant_source_009",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_010.jpg",
+    "plant_source_id": "plant_source_010",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_011.jpg",
+    "plant_source_id": "plant_source_011",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_012.jpg",
+    "plant_source_id": "plant_source_012",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_013.jpg",
+    "plant_source_id": "plant_source_013",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_014.jpg",
+    "plant_source_id": "plant_source_014",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_015.jpg",
+    "plant_source_id": "plant_source_015",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_016.jpg",
+    "plant_source_id": "plant_source_016",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_017.jpg",
+    "plant_source_id": "plant_source_017",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_018.jpg",
+    "plant_source_id": "plant_source_018",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_019.jpg",
+    "plant_source_id": "plant_source_019",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_020.jpg",
+    "plant_source_id": "plant_source_020",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_021.jpg",
+    "plant_source_id": "plant_source_021",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_022.jpg",
+    "plant_source_id": "plant_source_022",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "train"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_023.jpg",
+    "plant_source_id": "plant_source_023",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_024.jpg",
+    "plant_source_id": "plant_source_024",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_025.jpg",
+    "plant_source_id": "plant_source_025",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_026.jpg",
+    "plant_source_id": "plant_source_026",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_027.jpg",
+    "plant_source_id": "plant_source_027",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_028.jpg",
+    "plant_source_id": "plant_source_028",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_029.jpg",
+    "plant_source_id": "plant_source_029",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  },
+  {
+    "image_path": "data\\seed_data\\maturity\\maturity_plant_030.jpg",
+    "plant_source_id": "plant_source_030",
+    "growth_stage": "Maturity",
+    "stage_index": 4,
+    "split": "test"
+  }
+]
